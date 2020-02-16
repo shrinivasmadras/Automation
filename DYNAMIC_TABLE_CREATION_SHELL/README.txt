@@ -21,4 +21,4 @@
 
 ******CALL SCRIPT METHOD********
 #once all the variables are defined by you the scripts , you can call the sctipt in the belo manner.
-*./spool.ksh && ./dynamic.ksh && ./create_table.ksh && ./load.ksh
+*./spool.ksh && ./dynamic.ksh && ./create_table.ksh && ./load.ksh && final_processed_data.ksh
